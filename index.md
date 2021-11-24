@@ -9,6 +9,8 @@ My projects live in the intersection between male body acceptance, human sexuali
 
 Hence my name, a reference to an infinite chain of dicks connected to each other through blockchain technology.
 
-[Peeny](peenytoken.com) is the first of these projects. It's a crypto token and community that fosters acceptance for peens of all sizes. It's an ethereum-based ERC-20 compliant token with a semi-trustless ICO. Every donation to the ICO is saved to the blockchain and I send out the Peeny tokens reserved in the ICO by calling a method in the Peeny smart contract.
+[Peeny](peenytoken.com) is the first of these projects. It's an ethereum-based token with a semi-trustless ICO. Every donation to the ICO is saved to the blockchain.
+
+Peeny is about embracing and accepting peens of all sizes and bearing everything voyeuristically on the blockchain.
 
 I plan on announcing new projects soon, so stay tuned.
