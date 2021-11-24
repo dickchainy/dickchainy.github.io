@@ -16,7 +16,7 @@
 title: Dick Chainy
 email: avgpps@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Dick Chainy is a crypto developer and the creator of [Peeny](https://peenytoken.com).
+  Dick Chainy is a crypto developer and the creator of Peeny, https://peenytoken.com.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dickchainy.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
