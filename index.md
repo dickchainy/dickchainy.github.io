@@ -5,7 +5,7 @@ date:   2021-11-23 21:02:30 -0500
 ---
 Hello, crypto enthusiasts, I'm Dick Chainy.
 
-My projects live in the intersection between male anatomy and the blockchain.
+My current projects live in the intersection between male anatomy and the blockchain.
 
 Hence my name, a reference to an infinite chain of dicks connected to each other through blockchain technology.
 
