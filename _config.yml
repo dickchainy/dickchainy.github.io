@@ -7,6 +7,8 @@ url: "http://dickchainy.com" # the base hostname & protocol for your site, e.g. 
 twitter_username:
 github_username: dickchainy
 
+google_analytics: UA-209143656-1
+
 # Build settings
 markdown: kramdown
 remote_theme: pages-themes/hacker@v0.2.0
