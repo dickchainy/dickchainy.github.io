@@ -13,6 +13,6 @@ Hence my name, a reference to an infinite chain of dicks connected to each other
 # Projects
 
 ## Peeny
-[<img src="http://peenytoken.com/assets/peeny10.svg">](https://peenytoken.com)
+[<img src="http://peenytoken.com/assets/peeny10.svg" width="500px" height="500px">](https://peenytoken.com)
 
 Peeny is about embracing and accepting peens of all sizes and bearing everything voyeuristically on the blockchain.
