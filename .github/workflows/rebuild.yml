@@ -1,5 +1,5 @@
 # File: .github/workflows/refresh.yml
-name: Refresh
+name: Refresh Daily
 
 on:
   schedule:
