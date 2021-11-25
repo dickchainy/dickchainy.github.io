@@ -7,6 +7,10 @@ url: "http://dickchainy.com" # the base hostname & protocol for your site, e.g. 
 twitter_username:
 github_username: dickchainy
 
+github:
+  is_project_page: false
+
+
 google_analytics: UA-209143656-1
 
 # Build settings
