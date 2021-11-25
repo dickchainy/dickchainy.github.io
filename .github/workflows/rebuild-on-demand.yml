@@ -1,6 +1,9 @@
 # File: .github/workflows/refresh-on-demand.yml
 name: Refresh On Demand
-
+on:
+  push:
+    branches:
+      - main
 jobs:
   refresh:
     runs-on: ubuntu-latest
