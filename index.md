@@ -1,6 +1,5 @@
 ---
 layout: default
-title:  "Dick Chainy #1"
 date:   2021-11-23 21:02:30 -0500
 ---
 Hello, crypto enthusiasts, I'm Dick Chainy.
@@ -14,3 +13,9 @@ Hence my name, a reference to an infinite chain of dicks connected to each other
 Peeny is about embracing and accepting peens of all sizes and bearing everything voyeuristically on the blockchain.
 
 I plan on announcing new projects soon, so stay tuned.
+
+# Projects
+
+## Peeny
+[<img src="http://www.peenytoken.com/assets/peeny10.svg">]
+Peeny
