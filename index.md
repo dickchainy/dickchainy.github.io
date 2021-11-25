@@ -17,5 +17,5 @@ I plan on announcing new projects soon, so stay tuned.
 # Projects
 
 ## Peeny
-[<img src="http://www.peenytoken.com/assets/peeny10.svg">]
+[<img src="http://peenytoken.com/assets/peeny10.svg">]
 Peeny
