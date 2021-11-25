@@ -1,4 +1,0 @@
-# File: .github/workflows/refresh.yml
-name: Refresh Daily
-
-on: workflow_dispatch
